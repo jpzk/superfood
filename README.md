@@ -1,6 +1,6 @@
 # superfood
 
-This is a collection of healthy food.
+This is a list of food which has potential health benefits.   
 
 ## Fruits  
 
@@ -9,3 +9,7 @@ Avocado trees are vulnerable to bacterial, viral, fungal, and nutritional diseas
 
 * http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3664913/
 * http://authoritynutrition.com/12-proven-benefits-of-avocado/
+
+## Spice
+
+### Turmeric
