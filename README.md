@@ -1,6 +1,6 @@
 # superfood
 
-This is a list of food which has potential health benefits.   
+This is a list of food which has potential health benefits. This list is not universal and each body reacts differently, but you can use this list as a starting point for a deeper investigation to balance your nutrition. 
 
 ## Fruits  
 
